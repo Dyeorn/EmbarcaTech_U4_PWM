@@ -1,4 +1,4 @@
 [wokwi]
 version = 1
-firmware = 'build/EmbarcaTech_U4_PWM.hex'
-elf = 'build/EmbarcaTech_U4_PWM.elf'
+firmware = 'build/EmbarcaTech_PWM.hex'
+elf = 'build/EmbarcaTech_PWM.elf'
